@@ -1,6 +1,7 @@
 # mintlify.com-clone
 
-Static clone of the Mintlify marketing site.
+Static clone of the Mintlify.com. It's a UI clone
+[![Netlify Status](https://api.netlify.com/api/v1/badges/57d18b6c-8abc-4201-b9ed-7f63fd7c9a52/deploy-status)](https://app.netlify.com/projects/mintlify-ui-ppc/deploys)
 
 ## What’s Here
 - `index.html` — page markup
